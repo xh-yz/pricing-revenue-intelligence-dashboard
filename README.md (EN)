@@ -1,0 +1,105 @@
+# 💎 Supermarket Pricing & Revenue Intelligence Dashboard
+
+This project is **not a sales report**.
+
+It is a **Revenue Intelligence & Profit Leakage Detection system** designed to answer one critical business question:
+
+> Where are we truly making money — and where are we silently losing it?
+
+---
+
+## 🚩 Business Problem
+
+Traditional retail dashboards focus on:
+- Total sales
+- Units sold
+- Revenue growth
+
+However, these metrics often **hide profit leakages**, pricing anomalies, and inefficient campaigns.
+
+This project reframes sales data into **profitability, pricing risk, and payment behavior intelligence**.
+
+---
+
+## 🎯 Project Objectives
+
+- Detect hidden profit loss caused by pricing anomalies  
+- Analyze payment method impact on basket size  
+- Simulate FX (USD/TRY) impact on margins  
+- Identify campaigns that increase volume but reduce profitability  
+
+---
+
+## 🧠 Analytical Approach
+
+### 1️⃣ Data Preparation (SQL)
+- Raw transaction data cleaned and normalized
+- Product, date, payment, and pricing layers modeled
+- Reporting-ready tables created
+
+### 2️⃣ Business Logic & Simulation (Power BI & DAX)
+- Dynamic USD/TRY exchange rate simulation
+- Daily price anomaly detection
+- Payment-method-based purchasing behavior analysis
+- Product line operational volume tracking
+
+### 3️⃣ Decision-Oriented Dashboard Design
+- Executive-friendly KPI hierarchy
+- Risk-focused visual prioritization
+- Fast identification of loss-making areas
+
+---
+
+## 📊 Key Insights Generated
+
+🔎 Certain product groups drop up to **80% below normal price levels** on specific days → *Hidden profit leakage*  
+
+💳 Credit card transactions show **up to 40% higher basket size**  
+
+💱 FX simulation reveals **margin breakpoints under currency volatility**  
+
+📉 Some campaigns increase sales volume while **reducing overall profitability**
+
+---
+
+## 🧩 Dashboard Outcome
+
+This dashboard no longer answers:
+> "What happened?"
+
+It answers:
+> "Where are we losing money — and what should we fix next?"
+
+---
+
+## 🛠 Tech Stack
+
+- SQL (Data Modeling & Preparation)
+- Power BI
+- DAX
+- Revenue & Pricing Analytics
+
+---
+
+## 📂 Repository Structure
+
+- `/dashboard` → Power BI (.pbix) file  
+- `/sql` → Data preparation logic  
+- `/dax` → Key measures and business rules  
+- `/visuals` → Dashboard screenshots  
+
+---
+
+## 🚀 Use Cases
+
+- Pricing strategy optimization  
+- Campaign profitability analysis  
+- Financial risk monitoring  
+- Retail revenue intelligence  
+
+---
+
+## 📌 Author
+
+**Ali Pervanoğlu**  
+Data Analyst | Revenue & Operational Intelligence  
