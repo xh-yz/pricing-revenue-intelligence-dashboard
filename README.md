@@ -56,12 +56,17 @@ Visual hierarchy optimized for executive-level decision making.
 ## 🧩 Outcome (EN)
 
 This dashboard no longer answers:
-> *“What happened?”*
+
+“What happened?”
 
 It answers:
-> *“Where are we losing money — and what should we fix next?”*
 
----
+“Where are we losing money — why is it happening — and what should we fix next?”
+
+By shifting the focus from sales volume to profit risk,
+this dashboard enables managers to prioritize actions
+based on financial impact rather than activity metrics.
+
 
 # 🇹🇷 Türkçe Açıklama
 
@@ -97,6 +102,21 @@ Bu proje satış verisini, **fiyat riski ve kârlılık istihbaratı** perspekti
 - Bazı kampanyalar hacim artırırken kârlılığı düşürüyor  
 
 ---
+
+🧩 Sonuç (TR)
+
+Bu dashboard artık şu soruya cevap vermiyor:
+
+“Ne oldu?”
+
+Onun yerine şunu soruyor:
+
+“Nerede para kaybediyoruz — bunun nedeni ne — ve bir sonraki adımda neyi düzeltmeliyiz?”
+
+Satış hacmi yerine kârlılık riskine odaklanan bu yaklaşım,
+yöneticilerin aksiyonları aktiviteye göre değil,
+finansal etkiye göre önceliklendirmesini sağlar.
+
 
 ## 🛠 Tech Stack
 Power BI  
