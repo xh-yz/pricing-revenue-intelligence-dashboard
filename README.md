@@ -32,8 +32,9 @@ This project reframes sales data into **pricing risk, profitability, and decisio
 
 ## 🧠 Analytical Approach (EN)
 
-**Data Preparation (SQL)**  
-Raw sales data was cleaned, normalized, and modeled into reporting-ready tables.
+Data Preparation & Modeling  
+Raw sales data was cleaned, normalized, and structured using analytical modeling principles prior to visualization.
+
 
 **Business Logic & Simulation (Power BI & DAX)**  
 Dynamic FX simulation, price anomaly logic, and profitability indicators were implemented.
@@ -98,10 +99,10 @@ Bu proje satış verisini, **fiyat riski ve kârlılık istihbaratı** perspekti
 ---
 
 ## 🛠 Tech Stack
+Power BI  
+DAX (Business Logic & Measures)  
+Analytical Data Modeling
 
-- SQL  
-- Power BI  
-- DAX  
 
 ---
 
